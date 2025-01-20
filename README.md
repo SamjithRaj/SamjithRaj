@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamjithRaj and I'm just starting from scratch.
-- 👀 I’m interested in learning to code
-- 🌱 I’m currently learning AI&ML
+- 👀 I’m interested in learning to DSA and ML
+- 🌱 I’m currently an AI&ML undergrad
 - 📫 You can reach me at reachsamjith@gmail.com
 
 <!---
