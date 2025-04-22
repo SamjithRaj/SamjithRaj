@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SamjithRaj and I'm just starting from scratch.
-- 👀 I’m interested in learning to DSA and ML
+- 👋 Hi, I’m @SamjithRaj
+-  Aspiring M&A Analyst | Data Analysis Enthusiast | Python | SQL | Finance | Future MBA Candidate
 - 🌱 I’m currently an AI&ML undergrad
 - 📫 You can reach me at reachsamjith@gmail.com
 
