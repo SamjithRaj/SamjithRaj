@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SamjithRaj
--  Aspiring SDE | Data Analysis Enthusiast| C++ | Java | Python | SQL |
+-  Aspiring SDE | Data Analysis Enthusiast | C++ | Java | Python | SQL |
 - 🌱 I’m currently an AI&ML undergrad
 - 📫 You can reach me at reachsamjith@gmail.com
 
