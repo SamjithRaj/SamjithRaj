@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SamjithRaj
--  Aspiring M&A Analyst | Data Analysis Enthusiast | Python | SQL | Finance | Future MBA Candidate
+-  Aspiring SDE | Data Analysis Enthusiast| C++ | Java | Python | SQL |
 - 🌱 I’m currently an AI&ML undergrad
 - 📫 You can reach me at reachsamjith@gmail.com
 
