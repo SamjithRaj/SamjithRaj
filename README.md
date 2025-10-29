@@ -73,7 +73,7 @@ Click on the categories below to see the technologies I've been working with.
         <p>
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-        </p>
+          </p>
       </details>
     </td>
   </tr>
@@ -113,7 +113,7 @@ Here are some of the projects I'm proud of.
             📁 HACK4SDG
           </a>
         </h4>
-        <p>My project for the HACK4SDG hackathon.</p>
+        <p>My project submission for the HACK4SDG hackathon.</p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
       </div>
@@ -143,5 +143,36 @@ Here are some of the projects I'm proud of.
             📁 CRT (Campus Recruitment Training)
           </a>
         </h4>
-        <p>A collection of code and resources for Campus Recruitment Training.</p>
-        <img src="https://img.
+        <p>A collection of code, notes, and resources to prepare for placements and technical interviews.</p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+        <img src="https://img.shields.io/badge/Data%20Structures-FF781F?style=for-the-badge" alt="Data Structures"/>
+      </div>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="100%">
+      <div style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; margin-bottom: 12px;">
+        <h4>
+          <a href="https://github.com/SamjithRaj/SIH_2025" style="text-decoration: none; color: #58a6ff;">
+            📁 SIH_2025
+          </a>
+        </h4>
+        <p>A repository for brainstorming and developing ideas for the Smart India Hackathon 2025.</p>
+        <img src="https://img.shields.io/badge/Ideation-A020F0?style=for-the-badge" alt="Ideation"/>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📈 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SamjithRaj&show_icons=true&theme=tokyonight&icon_color=79ff97&hide_border=true&count_private=true" alt="Samjith's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamjithRaj&layout=compact&theme=tokyonight&hide_border=true" alt="Samjith's Top Languages" />
+  <br>
+  </p>
