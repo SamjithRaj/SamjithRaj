@@ -191,15 +191,6 @@ motto: "Building solutions for tomorrow's problems"
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=SamjithRaj&theme=tokyo-night&hide_border=true&bg_color=1F222E&color=6A5ACD&line=79ff97&point=FFFFFF" alt="Contribution Graph" />
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SamjithRaj&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
----
 
 ## 📈 Contribution Graph
 
@@ -211,9 +202,6 @@ motto: "Building solutions for tomorrow's problems"
 
 ## 💭 Dev Quote
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" />
-</div>
 
 
 
