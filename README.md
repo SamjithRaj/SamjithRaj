@@ -1,216 +1,273 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Samjith%20Raj&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+<!-- Elegant Header with Glassmorphism Effect -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=&fontSize=0&animation=fadeIn" />
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Software+Development+Engineer;AI+%26+Machine+Learning+Enthusiast;Data+Analysis+Expert;Problem+Solver+%26+Innovator" alt="Typing SVG" /></a>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=45&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&height=100&lines=SAMJITH+RAJ;SOFTWARE+ENGINEER;AI+%2B+ML+SPECIALIST;DATA+ARCHITECT" alt="Typing SVG" />
+</div>
 
-<!-- Badges -->
-<p>
-  <a href="https://github.com/SamjithRaj">
-    <img src="https://komarev.com/ghpvc/?username=SamjithRaj&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/SamjithRaj?tab=followers">
-    <img src="https://img.shields.io/github/followers/SamjithRaj?label=Followers&style=flat-square&color=blueviolet&logo=github" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/SamjithRaj">
-    <img src="https://img.shields.io/github/stars/SamjithRaj?label=Stars&style=flat-square&color=blueviolet&logo=github" alt="GitHub Stars"/>
-  </a>
+<br>
+
+<!-- Minimalist Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCUS-Software%20Development-667eea?style=flat-square&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/SPECIALTY-AI%20%26%20Machine%20Learning-764ba2?style=flat-square&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/PASSION-Data%20Engineering-f093fb?style=flat-square&labelColor=1a1b27" />
 </p>
 
-<!-- Social Links -->
-<p>
+<p align="center">
   <a href="mailto:reachsamjith@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/EMAIL-reachsamjith%40gmail.com-667eea?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" />
   </a>
   <a href="https://samjithraj.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-6A5ACD?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/SamjithRaj">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-samjithraj.github.io-764ba2?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1b27" />
   </a>
 </p>
 
+<br>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 </div>
 
----
+<br>
 
-## 🎯 About Me
+<!-- About Section with Clean Design -->
+<div align="center">
+  
+## ╭─────────────────  ABOUT  ─────────────────╮
 
-```yaml
-name: Samjith Raj
-role: Aspiring Software Development Engineer
-education: AI & Machine Learning Undergraduate
-location: Hyderabad, India
-current_focus: ["Software Development", "Data Analysis", "Machine Learning"]
-motto: "Building solutions for tomorrow's problems"
+</div>
+
+<table align="center">
+  <tr>
+    <td width="60%" valign="top">
+      
+**`WHO I AM`**
+
+```typescript
+const samjith = {
+    identity: "Software Development Engineer",
+    education: "AI & Machine Learning • Undergraduate",
+    location: "Hyderabad, India 🇮🇳",
+    
+    expertise: [
+        "Full-Stack Development",
+        "Machine Learning Systems",
+        "Data Engineering & Analytics"
+    ],
+    
+    currentMission: "Architecting intelligent solutions",
+    philosophy: "Code with purpose. Build with passion."
+};
 ```
 
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding GIF"/>
+**`WHAT DRIVES ME`**
 
-### 💡 What Drives Me
+→ Building production-grade AI applications  
+→ Solving complex algorithmic challenges  
+→ Transforming data into decision intelligence  
+→ Contributing to open-source innovation  
 
-- 🔭 Currently pursuing **AI & Machine Learning** degree
-- 🌱 Constantly learning and exploring **cutting-edge technologies**
-- 💻 Passionate about **problem-solving** and **algorithmic thinking**
-- 📊 Transforming **raw data** into **actionable insights**
-- 🚀 Building **scalable solutions** for real-world challenges
-- 🎯 Preparing for **technical interviews** and **competitive coding**
-
-<br clear="right"/>
-
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-</p>
-
-### 🌐 Web Technologies
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
-
-### 🤖 AI & Data Science
-<p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML"/>
-  <img src="https://img.shields.io/badge/Data%20Analysis-013243?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Analysis"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-</p>
-
-### 🔧 Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-</p>
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🏆 HACK4SDG</h3>
-      <div align="center">  
-        <a href="https://github.com/SamjithRaj/HACK4SDG" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamjithRaj&repo=HACK4SDG&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=6A5ACD&icon_color=79ff97" alt="HACK4SDG"/>
-        </a>
-        <br>
-        <br>
-        <p>
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-        </p>
-        <p><strong>Hackathon submission focusing on sustainable development goals</strong></p>
-      </div>
     </td>
-    <td width="50%">
-      <h3 align="center">💼 Portfolio Website</h3>
-      <div align="center">  
-        <a href="https://github.com/SamjithRaj/SamjithRaj.github.io" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamjithRaj&repo=SamjithRaj.github.io&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=6A5ACD&icon_color=79ff97" alt="Portfolio"/>
-        </a>
-        <br>
-        <br>
-        <p>
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-        </p>
-        <p><strong>Personal portfolio showcasing projects & skills</strong></p>
-        <a href="https://samjithraj.github.io/" target="_blank">
-          <img src="https://img.shields.io/badge/Live-Demo-6A5ACD?style=flat-square" alt="Live Demo"/>
-        </a>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">📚 Campus Recruitment Training</h3>
-      <div align="center">  
-        <a href="https://github.com/SamjithRaj/CRT" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamjithRaj&repo=CRT&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=6A5ACD&icon_color=79ff97" alt="CRT"/>
-        </a>
-        <br>
-        <br>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-          <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
-          <img src="https://img.shields.io/badge/DSA-FF6B6B?style=flat-square" alt="DSA"/>
-        </p>
-        <p><strong>Comprehensive interview prep & DSA resources</strong></p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">💡 Smart India Hackathon 2025</h3>
-      <div align="center">  
-        <a href="https://github.com/SamjithRaj/SIH_2025" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamjithRaj&repo=SIH_2025&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=6A5ACD&icon_color=79ff97" alt="SIH 2025"/>
-        </a>
-        <br>
-        <br>
-        <p>
-          <img src="https://img.shields.io/badge/Innovation-A020F0?style=flat-square" alt="Innovation"/>
-          <img src="https://img.shields.io/badge/Ideation-FF69B4?style=flat-square" alt="Ideation"/>
-        </p>
-        <p><strong>Brainstorming innovative solutions for national challenges</strong></p>
-      </div>
+    <td width="40%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300" />
     </td>
   </tr>
 </table>
 
+<br>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+
+<br>
+
+<!-- Tech Stack with Modern Layout -->
+<div align="center">
+
+## ╭─────────────  TECHNOLOGY STACK  ─────────────╮
+
+</div>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**`LANGUAGES`**
+
+<img height="50" src="https://skillicons.dev/icons?i=cpp,python,java,js" />
+<img height="50" src="https://skillicons.dev/icons?i=typescript,sql" />
+
+**`FRONTEND`**
+
+<img height="50" src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+
+**`DATA & AI`**
+
+<img height="50" src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+
+</td>
+<td width="50%" valign="top">
+
+**`BACKEND & DATABASE`**
+
+<img height="50" src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+
+**`TOOLS & PLATFORMS`**
+
+<img height="50" src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+<img height="50" src="https://skillicons.dev/icons?i=docker,linux,bash" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<br>
+
+<!-- Projects Section with Ultra-Clean Cards -->
+<div align="center">
+
+## ╭──────────────  FEATURED WORK  ──────────────╮
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🎯 HACK4SDG
+*Sustainable Development Solutions Platform*
+
+[![Repo](https://img.shields.io/badge/VIEW_REPOSITORY-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamjithRaj/HACK4SDG)
+
+`HTML5` `CSS3` `Sustainable Tech` `Hackathon Winner`
 
 ---
 
-## 📊 GitHub Analytics
+### 💼 Portfolio Showcase
+*Personal Brand & Project Exhibition*
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SamjithRaj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=6A5ACD&icon_color=79ff97&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SamjithRaj&theme=tokyonight&hide_border=true&background=1F222E&ring=6A5ACD&fire=79ff97&currStreakLabel=79ff97" alt="GitHub Streak" />
-</div>
+[![Live](https://img.shields.io/badge/LIVE_DEMO-764ba2?style=for-the-badge&logo=vercel&logoColor=white)](https://samjithraj.github.io/)
+[![Repo](https://img.shields.io/badge/VIEW_CODE-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamjithRaj/SamjithRaj.github.io)
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamjithRaj&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=6A5ACD&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=SamjithRaj&theme=tokyo-night&hide_border=true&bg_color=1F222E&color=6A5ACD&line=79ff97&point=FFFFFF" alt="Contribution Graph" />
-</div>
-
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamjithRaj&theme=tokyo-night&hide_border=true&bg_color=1F222E&color=6A5ACD&line=79ff97&point=FFFFFF" width="100%" alt="Contribution Graph" />
-</div>
+`Responsive Design` `Modern UI/UX` `Portfolio Architecture`
 
 ---
 
-## 💭 Dev Quote
+### 📚 Campus Recruitment Mastery
+*Complete Interview Preparation Arsenal*
 
+[![Repo](https://img.shields.io/badge/EXPLORE_RESOURCES-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamjithRaj/CRT)
 
+`DSA` `Python` `C++` `System Design` `Interview Patterns`
 
+---
+
+### 💡 Smart India Hackathon 2025
+*Innovation Lab for National Impact*
+
+[![Repo](https://img.shields.io/badge/VIEW_INNOVATIONS-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamjithRaj/SIH_2025)
+
+`Problem Solving` `Ideation` `Prototype Development`
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<br>
+
+<!-- GitHub Analytics with Premium Layout -->
+<div align="center">
+
+## ╭─────────────  PERFORMANCE METRICS  ─────────────╮
+
+</div>
+
+<br>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamjithRaj&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=9f9f9f&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamjithRaj&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=9f9f9f&langs_count=8" />
+</div>
+
+<br>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=SamjithRaj&theme=radical&hide_border=true&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=9f9f9f&sideLabels=9f9f9f&dates=9f9f9f" />
+</div>
+
+<br>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=SamjithRaj&custom_title=Contribution%20Timeline&bg_color=0D1117&color=667eea&line=764ba2&point=f093fb&area=true&hide_border=true" />
+</div>
+
+<br>
 
 <div align="center">
 
-### 💬 "Code is like humor. When you have to explain it, it's bad." – Cory House
+[![trophy](https://github-profile-trophy.vercel.app/?username=SamjithRaj&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-### ⚡ Let's connect and build something amazing together!
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<br>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<br>
+
+<!-- Closing Section with Minimalist Design -->
+<div align="center">
+
+## ╭──────────────────  CONNECT  ──────────────────╮
+
+<br>
+
+**`PHILOSOPHY`**
+
+*"Elegant code is not about complexity—it's about clarity with purpose."*
+
+<br>
+
+**`STATUS`**
+
+```diff
++ Open to collaborations on AI/ML projects
++ Available for software engineering opportunities
++ Actively contributing to open source
+```
+
+<br>
+
+[![Email](https://img.shields.io/badge/REACH_OUT-reachsamjith%40gmail.com-667eea?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27)](mailto:reachsamjith@gmail.com)
+[![Portfolio](https://img.shields.io/badge/EXPLORE_WORK-samjithraj.github.io-764ba2?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1b27)](https://samjithraj.github.io/)
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer" width="100%"/>
+
+---
+
+<sub>**Built with precision** · **Designed for impact** · **Crafted with passion**</sub>
 
 </div>
