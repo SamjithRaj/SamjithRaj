@@ -1,103 +1,65 @@
 <div align="center">
 
-<!-- Hero Section with Gradient Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=240&section=header&text=SAMJITH%20RAJ%20BONDLA&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20AI%20Specialist%20•%20Data%20Architect&descAlignY=55&descSize=18" />
+<!-- Hero Section -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=SAMJITH%20RAJ%20BONDLA&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" />
 
-<!-- Dynamic Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Building+Intelligent+Systems+with+Purpose;Transforming+Data+into+Actionable+Insights;Crafting+Scalable+AI+Solutions" alt="Typing Animation" />
+<h3>C++ Specialist • Algorithm Engineer • Systems Developer</h3>
 
-<br>
-
-<!-- Professional Badges -->
 <p>
-  <img src="https://img.shields.io/badge/🎯_FOCUS-Software_Engineering-667eea?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/🧠_AI-Machine_Learning-764ba2?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/📊_DATA-Engineering-f093fb?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/📍-Hyderabad,_India-00D9FF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00599C&center=true&vCenter=true&width=700&lines=Competitive+Programmer+%7C+C%2B%2B+Expert;Data+Structures+%26+Algorithms+Specialist;Building+High-Performance+Systems;Optimizing+Code+for+Speed+%26+Efficiency" alt="Typing SVG" />
 </p>
 
-<!-- Contact Buttons with Hover Effect -->
+<!-- Contact Links -->
 <p>
-  <a href="mailto:reachsamjith@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-reachsamjith@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://samjithraj.github.io/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-samjithraj.github.io-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/SamjithRaj">
-    <img src="https://img.shields.io/badge/💻_GitHub-@SamjithRaj-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href="mailto:reachsamjith@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://samjithraj.github.io/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://github.com/SamjithRaj"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
-<br>
+## 👨‍💻 About Me
 
-<!-- Profile Overview with Cards -->
-<div align="center">
-
-## 🎯 PROFESSIONAL SNAPSHOT
-
-</div>
-
-<table align="center">
-  <tr>
-    <td width="55%" valign="top">
-
-### 👨‍💻 **WHO I AM**
-
-```javascript
-const developer = {
-  name: "Samjith Raj Bondla",
-  role: "Software Development Engineer",
-  education: "B.Tech in AI & Machine Learning",
-  location: "Hyderabad, Telangana 🇮🇳",
-  
-  coreSkills: {
-    languages: ["C++", "Python", "Java", "JavaScript", "TypeScript"],
-    domains: ["Full-Stack", "AI/ML", "Data Engineering"],
-    databases: ["MongoDB", "MySQL", "PostgreSQL"],
-    cloud: ["Docker", "Linux", "Git"]
-  },
-  
-  currentFocus: [
-    "🤖 Building production-ready AI systems",
-    "⚡ Optimizing algorithmic solutions",
-    "📊 Data-driven decision intelligence",
-    "🌟 Open-source contributions"
-  ],
-  
-  motto: "Code with clarity. Build with impact."
+```cpp
+class Developer {
+private:
+    string name = "Samjith Raj Bondla";
+    string role = "C++ Software Engineer";
+    string location = "Hyderabad, India 🇮🇳";
+    string education = "B.Tech in AI & Machine Learning";
+    
+public:
+    vector<string> coreExpertise = {
+        "C++ Development (Modern C++11/14/17/20)",
+        "Data Structures & Algorithms",
+        "Competitive Programming",
+        "Systems Programming & Performance Optimization"
+    };
+    
+    map<string, string> languages = {
+        {"Primary", "C++ (Expert Level)"},
+        {"Secondary", "Python, Java, JavaScript"},
+        {"Learning", "Rust, Go"}
+    };
+    
+    vector<string> currentFocus = {
+        "⚡ Solving 1000+ DSA problems across platforms",
+        "🏆 Competing in coding contests (Codeforces, LeetCode, CodeChef)",
+        "🚀 Building performance-critical applications in C++",
+        "📚 Mastering advanced algorithms & optimization techniques"
+    };
+    
+    string motto = "Write fast code. Think faster.";
 };
 ```
 
-### 🎖️ **ACHIEVEMENTS**
-
-- 🏆 **Hackathon Winner** - HACK4SDG Sustainable Development
-- 💡 **SIH 2025 Participant** - Smart India Hackathon
-- 📚 **Open Source Contributor** - Multiple repositories
-- 🎓 **Technical Leader** - AI/ML Projects & Research
-
-    </td>
-    <td width="45%" align="center">
-      
-### 📊 **QUICK STATS**
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamjithRaj&theme=radical" width="100%" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=SamjithRaj&color=667eea&style=for-the-badge&label=PROFILE+VIEWS" />
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="280" />
-
-    </td>
-  </tr>
-</table>
+**🎖️ Achievements**
+- 🏆 **HACK4SDG Hackathon Winner** (Sustainable Development)
+- 💡 **Smart India Hackathon 2025 Participant**
+- 📊 **500+ DSA Problems Solved** (LeetCode, Codeforces, CodeChef)
+- 🎯 **Active Competitive Programmer** - Regular contest participant
 
 <br>
 
@@ -105,250 +67,109 @@ const developer = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<br>
-
-<!-- Tech Stack Visualization -->
-<div align="center">
-
-## 💻 TECHNOLOGY ARSENAL
-
-</div>
+## 💻 Technical Skills
 
 <div align="center">
 
-### **PROGRAMMING LANGUAGES**
+### **Core Competencies**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,c" alt="Languages" />
-</p>
+**C++ Ecosystem** ⭐⭐⭐⭐⭐  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++11/14/17](https://img.shields.io/badge/Modern_C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![STL](https://img.shields.io/badge/STL-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
-### **FRONTEND DEVELOPMENT**
+**Data Structures & Algorithms** ⭐⭐⭐⭐⭐  
+`Arrays & Strings` `Linked Lists` `Trees & Graphs` `Dynamic Programming` `Greedy` `Backtracking` `Divide & Conquer` `Bit Manipulation` `Two Pointers` `Sliding Window` `Heap & Priority Queue` `Trie` `Segment Tree` `Fenwick Tree`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,sass" alt="Frontend" />
-</p>
-
-### **BACKEND & DATABASES**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redis" alt="Backend" />
-</p>
-
-### **AI/ML & DATA SCIENCE**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" alt="AI/ML" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
-
-### **TOOLS & PLATFORMS**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,bash,vim" alt="Tools" />
-</p>
-
-### **PROFICIENCY BREAKDOWN**
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/C++-Expert-00599C?style=flat-square&logo=cplusplus" /><br>
-      ⭐⭐⭐⭐⭐
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python" /><br>
-      ⭐⭐⭐⭐⭐
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=flat-square&logo=javascript" /><br>
-      ⭐⭐⭐⭐
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/React-Proficient-61DAFB?style=flat-square&logo=react" /><br>
-      ⭐⭐⭐⭐
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/AI/ML-Advanced-FF6F00?style=flat-square&logo=tensorflow" /><br>
-      ⭐⭐⭐⭐
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Data_Eng-Proficient-00758F?style=flat-square&logo=databricks" /><br>
-      ⭐⭐⭐⭐
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/MongoDB-Advanced-47A248?style=flat-square&logo=mongodb" /><br>
-      ⭐⭐⭐⭐
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Docker-Intermediate-2496ED?style=flat-square&logo=docker" /><br>
-      ⭐⭐⭐
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<br>
-
-<!-- Featured Projects with Enhanced Cards -->
-<div align="center">
-
-## 🚀 FEATURED PROJECTS
-
-</div>
-
-<br>
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-
-### 🌍 **HACK4SDG**
-*Sustainable Development Goals Platform*
-
-Winner of hackathon focused on creating tech solutions for UN SDGs. Built with modern web technologies to promote environmental sustainability.
-
-**Tech Stack:**  
-`HTML5` `CSS3` `JavaScript` `Responsive Design`
-
-**Impact:**  
-✅ Hackathon Winner  
-✅ Sustainability Focus  
-✅ Community Impact  
-
-<a href="https://github.com/SamjithRaj/HACK4SDG">
-  <img src="https://img.shields.io/badge/View_Repository-667eea?style=for-the-badge&logo=github" />
-</a>
+**Problem Solving Platforms**  
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
+![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
+![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)
 
 ---
 
-### 💼 **Portfolio Showcase**
-*Personal Brand & Professional Identity*
+### **Additional Technologies**
 
-A modern, responsive portfolio website showcasing projects, skills, and professional journey. Features clean UI/UX with smooth animations.
+**Programming Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-**Tech Stack:**  
-`HTML5` `CSS3` `JavaScript` `GitHub Pages`
+**Web Development**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Features:**  
-✅ Responsive Design  
-✅ Modern Aesthetics  
-✅ Project Gallery  
+**Databases & Tools**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<a href="https://samjithraj.github.io/">
-  <img src="https://img.shields.io/badge/Live_Demo-764ba2?style=for-the-badge&logo=vercel" />
-</a>
-<a href="https://github.com/SamjithRaj/SamjithRaj.github.io">
-  <img src="https://img.shields.io/badge/Source_Code-667eea?style=for-the-badge&logo=github" />
-</a>
+**AI/ML (Secondary Focus)**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-    </td>
-    <td width="50%" valign="top">
+</div>
 
-### 📚 **Campus Recruitment Training**
-*Complete Interview Prep Resource*
+<br>
 
-Comprehensive repository covering Data Structures, Algorithms, System Design, and interview patterns. Includes solutions in Python and C++.
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-**Coverage:**  
-`DSA` `Python` `C++` `System Design` `Problem Solving`
+## 🚀 Featured Projects
 
-**Resources:**  
-✅ 500+ Problems Solved  
-✅ Multiple Languages  
-✅ Interview Patterns  
+### 📚 [Campus Recruitment Training (CRT)](https://github.com/SamjithRaj/CRT)
+**Comprehensive DSA & Interview Preparation Repository** • *500+ Problems Solved*  
+Complete guide covering Data Structures, Algorithms, System Design, and coding interview patterns. Solutions primarily in **C++** with Python alternatives.
 
-<a href="https://github.com/SamjithRaj/CRT">
-  <img src="https://img.shields.io/badge/Explore_Resources-667eea?style=for-the-badge&logo=github" />
-</a>
+**Key Features:**
+- ✅ **500+ Problems** with optimized C++ solutions
+- ✅ **Topic-wise organization** (Arrays, Trees, Graphs, DP, etc.)
+- ✅ **Time & Space Complexity Analysis** for each solution
+- ✅ **Pattern Recognition** techniques for interviews
+- ✅ **System Design** fundamentals
+
+`C++` `DSA` `Algorithms` `Interview Prep` `System Design` `Competitive Programming`
+
+**📖 [Explore Solutions](https://github.com/SamjithRaj/CRT)**
 
 ---
 
-### 💡 **Smart India Hackathon 2025**
-*Innovation for National Development*
+### 💡 [Smart India Hackathon 2025](https://github.com/SamjithRaj/SIH_2025)
+**Innovation for National Development**  
+Developing scalable, performance-optimized solutions for government and industry challenges using C++ for backend processing and algorithm implementation.
 
-Participating in India's biggest hackathon, developing innovative solutions for real-world problems identified by government and industry.
+**Focus:**  
+`C++ Backend` `Algorithm Optimization` `Problem Solving` `System Architecture`
 
-**Focus Areas:**  
-`Problem Solving` `Innovation` `Prototyping` `Impact`
+**📖 [View Project](https://github.com/SamjithRaj/SIH_2025)**
 
-**Objectives:**  
-✅ National Impact  
-✅ Tech Innovation  
-✅ Scalable Solutions  
+---
 
-<a href="https://github.com/SamjithRaj/SIH_2025">
-  <img src="https://img.shields.io/badge/View_Innovations-667eea?style=for-the-badge&logo=github" />
-</a>
+### 🌍 [HACK4SDG](https://github.com/SamjithRaj/HACK4SDG)
+**Sustainable Development Goals Platform** • *Hackathon Winner*  
+Award-winning tech solution for UN SDGs with focus on performance and scalability.
 
-    </td>
-  </tr>
-</table>
+`HTML5` `CSS3` `JavaScript` `Optimization` `Responsive Design`
 
-<br>
+**📖 [View Repository](https://github.com/SamjithRaj/HACK4SDG)**
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+---
 
-<br>
+### 💼 [Portfolio Website](https://samjithraj.github.io/)
+**Professional Portfolio & Project Showcase**  
+Modern, responsive portfolio featuring coding projects and competitive programming achievements.
 
-<!-- GitHub Analytics Dashboard -->
-<div align="center">
-
-## 📈 GITHUB ANALYTICS
-
-</div>
-
-<br>
-
-<div align="center">
-
-<!-- Primary Stats Grid -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamjithRaj&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=9f9f9f&count_private=true&include_all_commits=true&rank_icon=github" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamjithRaj&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=9f9f9f&langs_count=8" />
-
-</div>
-
-<br>
-
-<!-- Streak Stats -->
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=SamjithRaj&theme=radical&hide_border=true&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=9f9f9f&sideLabels=9f9f9f&dates=9f9f9f" />
-</div>
-
-<br>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=SamjithRaj&custom_title=📊%20Contribution%20Timeline&bg_color=0D1117&color=667eea&line=764ba2&point=f093fb&area=true&hide_border=true" />
-</div>
-
-<br>
-
-<!-- Trophy Showcase -->
-<div align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=SamjithRaj&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
-</div>
-
-<br>
-
-<!-- Additional Metrics Grid -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamjithRaj&theme=radical" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SamjithRaj&theme=radical" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SamjithRaj&theme=radical&utcOffset=5.5" width="32%" />
-</div>
+`HTML5` `CSS3` `JavaScript` `GitHub Pages`  
+🔗 **[Live Demo](https://samjithraj.github.io/)** • **[Source Code](https://github.com/SamjithRaj/SamjithRaj.github.io)**
 
 <br>
 
@@ -356,75 +177,33 @@ Participating in India's biggest hackathon, developing innovative solutions for 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<br>
+## 📊 Competitive Programming Stats
 
-<!-- Current Status & Philosophy -->
 <div align="center">
 
-## 🌟 CURRENT STATUS
+### **Problem Solving Progress**
 
-</div>
+| Platform | Problems Solved | Current Rating | Profile |
+|----------|----------------|----------------|---------|
+| 🟠 **LeetCode** | 300+ | Working towards 2000+ | [Profile](#) |
+| 🔵 **Codeforces** | 150+ | Active Participant | [Profile](#) |
+| 🟤 **CodeChef** | 100+ | Regular Contests | [Profile](#) |
+| 🟢 **HackerRank** | 200+ | 5⭐ Problem Solving | [Profile](#) |
 
-<br>
+### **DSA Proficiency Breakdown**
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-
-### 🎯 **ACTIVELY WORKING ON**
-
-```yaml
-Current_Focus:
-  - AI/ML System Development
-  - Competitive Programming (DSA)
-  - Full-Stack Web Applications
-  - Open Source Contributions
-  
-Learning_Path:
-  - Advanced Deep Learning
-  - Cloud Architecture (AWS/Azure)
-  - Microservices Design
-  - System Design Patterns
+```
+Arrays & Strings        ████████████████████ 95%
+Dynamic Programming     ███████████████████░ 90%
+Trees & Graphs         ████████████████████ 95%
+Linked Lists           ████████████████████ 100%
+Backtracking           ██████████████████░░ 85%
+Greedy Algorithms      ███████████████████░ 90%
+Bit Manipulation       █████████████████░░░ 80%
+Advanced DS            ████████████████░░░░ 75%
 ```
 
-### 🤝 **OPEN TO**
-
-- 💼 Software Engineering Internships
-- 🤖 AI/ML Project Collaborations
-- 📊 Data Engineering Opportunities
-- 🌟 Open Source Contributions
-- 💡 Freelance Projects
-
-    </td>
-    <td width="50%" valign="top">
-
-### 💭 **PHILOSOPHY**
-
-> *"The best code is not the most clever—it's the most understandable."*
-
-> *"Build systems that scale, write code that lasts, create impact that matters."*
-
-### 📫 **GET IN TOUCH**
-
-<a href="mailto:reachsamjith@gmail.com">
-  <img src="https://img.shields.io/badge/Email-reachsamjith@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://samjithraj.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_Now-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
-<a href="https://github.com/SamjithRaj">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-### ⚡ **FUN FACT**
-
-*I debug with tons of Caffeine ☕ and deploy with confidence 🚀*
-
-    </td>
-  </tr>
-</table>
+</div>
 
 <br>
 
@@ -432,19 +211,88 @@ Learning_Path:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<br>
+## 📈 GitHub Stats
 
-<!-- Footer -->
 <div align="center">
 
-### 🎨 *Designed with passion • Built with purpose • Deployed with pride*
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamjithRaj&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00599C&icon_color=00599C&text_color=9f9f9f&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamjithRaj&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00599C&text_color=9f9f9f&langs_count=6" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
+<br><br>
 
-<sub>⭐ **Star my repositories if you find them useful!** ⭐</sub>
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=SamjithRaj&theme=radical&hide_border=true&background=0D1117&ring=00599C&fire=00599C&currStreakLabel=9f9f9f" />
+
+<br><br>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=SamjithRaj&custom_title=Contribution%20Timeline&bg_color=0D1117&color=00599C&line=00599C&point=00599C&area=true&hide_border=true" />
+
+</div>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=SamjithRaj&color=blueviolet&style=flat-square&label=Profile+Views" />
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 🌟 What I'm Up To
+
+**Currently Working On**
+- 🏆 **Competitive Programming** - Daily practice on LeetCode, Codeforces, CodeChef
+- ⚡ **Advanced DSA** - Segment Trees, Fenwick Trees, Advanced Graph Algorithms
+- 🚀 **C++ Projects** - Building high-performance systems and libraries
+- 📖 **Algorithm Optimization** - Studying time/space complexity improvements
+- 💡 **Open Source** - Contributing to C++ projects and algorithm libraries
+
+**Learning & Goals**
+- Master advanced C++20 features and STL optimizations
+- Achieve **Codeforces Expert** rating (1600+)
+- Complete **1000+ DSA problems** across platforms
+- Contribute to major C++ open-source projects
+- Learn low-level systems programming and memory optimization
+
+**Open To Opportunities**
+- 💼 **C++ Software Engineer** roles (Internships/Full-time)
+- 🎯 **Algorithm Engineer** positions
+- 🏢 **Systems Programming** opportunities
+- 🤖 **Competitive Programming** teams and collaborations
+- 📊 **Backend Development** with C++
+
+<br>
+
+<div align="center">
+
+### 💭 Philosophy
+
+*"Premature optimization is the root of all evil, but knowing when to optimize is the mark of expertise."*
+
+*"The best algorithms are not just correct—they're elegant, efficient, and maintainable."*
+
+*"In C++, you don't just write code. You architect solutions."*
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+### 📫 Let's Connect
+
+<a href="mailto:reachsamjith@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://samjithraj.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+<a href="https://github.com/SamjithRaj">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:004080&height=100&section=footer" width="100%"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=SamjithRaj&color=00599C&style=flat-square&label=Profile+Views)
+
+**⭐ Interested in C++ or DSA? Check out my repositories!**
 
 </div>
