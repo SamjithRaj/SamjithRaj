@@ -5,7 +5,7 @@
 <br>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=600&lines=500%2B+DSA+Problems+Solved;C%2B%2B+Expert+%7C+Algorithm+Engineer;LeetCode+•+Codeforces+•+CodeChef;Building+High-Performance+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=600&lines=C%2B%2B+Engineer;500%2B+DSA+Problems+Solved;Algorithm+Specialist;LeetCode+•+Codeforces+•+CodeChef;Building+High-Performance+Systems" alt="Typing SVG" />
 </p>
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:reachsamjith@gmail.com)
