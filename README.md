@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=SAMJITH%20RAJ%20BONDLA&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=32&desc=C++%20Engineer%20•%20Algorithm%20Specialist%20•%20Competitive%20Programmer&descSize=14&descAlignY=51" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=SAMJITH%20RAJ%20BONDLA&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=32&desc=C%2B%2B%20Engineer%20•%20Algorithm%20Specialist%20•%20Competitive%20Programmer&descSize=14&descAlignY=51" />
 
 <br>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=600&lines=C++%2B%2B+Engineer;500%2B+DSA+Problems+Solved;Algorithm+Specialist;LeetCode+%E2%80%A2+Codeforces+%E2%80%A2+CodeChef;Building+High-Performance+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=600&lines=C%2B%2B+Engineer;500%2B+DSA+Problems+Solved;Algorithm+Specialist;LeetCode+%E2%80%A2+Codeforces+%E2%80%A2+CodeChef;Building+High-Performance+Systems" alt="Typing SVG" />
 </p>
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:reachsamjith@gmail.com)
