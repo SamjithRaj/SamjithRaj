@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,100:2563EB&text=Samjith%20Raj&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,100:2563EB&text=Samjith%20Raj%20Bondla&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=fadeIn"/>
 
 <br>
 
