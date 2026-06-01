@@ -1,133 +1,263 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=SAMJITH%20RAJ%20BONDLA&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=32&desc=C%2B%2B%20Engineer%20•%20Algorithm%20Specialist%20•%20Competitive%20Programmer&descSize=14&descAlignY=51" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,100:2563EB&text=Samjith%20Raj&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=fadeIn"/>
 
 <br>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=600&lines=C%2B%2B+Engineer;500%2B+DSA+Problems+Solved;Algorithm+Specialist;LeetCode+%E2%80%A2+Codeforces+%E2%80%A2+CodeChef;Building+High-Performance+Systems" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Backend+Engineering;C%2B%2B+Developer;Data+Analytics+%26+Machine+Learning;Building+Software+From+Scratch;Learning+Systems+Design;Always+Shipping+Something"/>
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:reachsamjith@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://samjithraj.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SamjithRaj)
+<br><br>
 
+<a href="mailto:reachsamjith@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<a href="https://github.com/SamjithRaj">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-## 🎯 Focus
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/nolan/96/code.png" width="64"/>
-<br><strong>500+</strong>
-<br>DSA Problems
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/nolan/96/trophy.png" width="64"/>
-<br><strong>Winner</strong>
-<br>HACK4SDG
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/nolan/96/lightweight.png" width="64"/>
-<br><strong>Expert</strong>
-<br>C++ & Algorithms
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/nolan/96/rocket.png" width="64"/>
-<br><strong>Active</strong>
-<br>Competitive Coder
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 💻 Tech Stack
-
-**Core Expertise**
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-**Competitive Programming**
-
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
-![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📊 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamjithRaj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamjithRaj&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br>
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=SamjithRaj&theme=tokyonight&hide_border=true&stroke=0000&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🚀 Featured Work
-
-<table>
-<tr>
-<td width="50%">
-
-### 📚 [Campus Recruitment Training](https://github.com/SamjithRaj/CRT)
-**500+ DSA Problems & Solutions**  
-`C++` `Algorithms` `Data Structures`
-
-Comprehensive interview prep repository with optimized solutions and complexity analysis.
-
-</td>
-<td width="50%">
-
-### 💡 [Smart India Hackathon 2025](https://github.com/SamjithRaj/SIH_2025)
-**National Innovation Challenge**  
-`C++` `System Design` `Optimization`
-
-Scalable solutions for government and industry challenges.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏆 [HACK4SDG](https://github.com/SamjithRaj/HACK4SDG)
-**Hackathon Winner**  
-`Web Development` `Sustainability`
-
-Award-winning platform for UN Sustainable Development Goals.
-
-</td>
-<td width="50%">
-
-### 💼 [Portfolio Website](https://samjithraj.github.io/)
-**Professional Showcase**  
-`HTML5` `CSS3` `JavaScript`
-
-Modern portfolio featuring projects and achievements.
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-**💭 "Write fast code. Think faster."**
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=SamjithRaj&color=00599C&style=flat-square&label=Profile+Views)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" width="100%"/>
+<a href="https://linkedin.com/in/samjith-raj-bondla-359b44263/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
 </div>
+
+---
+
+# About
+
+Final-year B.Tech student in Computer Science (AI & ML) with a growing focus on backend engineering, software architecture, and data-driven systems.
+
+I enjoy building projects from scratch to better understand how software works beneath the surface. Most of my time is currently spent on C++, Data Structures & Algorithms, backend fundamentals, and data analytics.
+
+My goal is simple: continuously raise the complexity of the problems I can solve and the systems I can build.
+
+---
+
+# Current Focus
+
+<div align="center">
+
+| Area                   | Focus                            |
+| ---------------------- | -------------------------------- |
+| ⚙️ Backend Engineering | C++, OOP, Software Architecture  |
+| 🧠 DSA                 | Problem Solving, STL, Algorithms |
+| 📊 Data Analytics      | Python, SQL, Excel, Pandas       |
+| 🤖 Machine Learning    | Scikit-Learn, Model Development  |
+| 🏗️ System Design      | Learning Fundamentals            |
+
+</div>
+
+---
+
+# Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,python,mysql"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+
+### Currently Learning
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+</div>
+
+---
+
+# Currently Building
+
+<table>
+<tr>
+
+<td width="65%">
+
+## 💰 Personal Finance Analyzer
+
+A modular finance management application built entirely in C++.
+
+### Features
+
+* Income Tracking
+* Expense Tracking
+* Category Management
+* Transaction History
+* Financial Reports
+* Persistent Data Storage
+
+### Engineering Concepts
+
+* Object-Oriented Programming
+* File Handling
+* Modular Design
+* Software Architecture
+* Clean Code Practices
+
+### Goal
+
+Build a maintainable backend application while developing strong engineering fundamentals.
+
+</td>
+
+<td width="35%">
+
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# Project Roadmap
+
+### 📈 Placement Predictor & Analyzer
+
+A data analytics project focused on extracting insights from placement trends using Python, SQL, and machine learning.
+
+---
+
+### ⚡ LRU Cache
+
+Understanding:
+
+* Hash Maps
+* Linked Lists
+* Cache Design
+* Time Complexity Tradeoffs
+
+---
+
+### 🗄️ Mini Redis Clone
+
+Understanding:
+
+* In-Memory Databases
+* Networking
+* Data Persistence
+* Backend Systems
+
+---
+
+### 📉 Matching Engine
+
+Understanding:
+
+* Trading Systems
+* Concurrency
+* Performance Optimization
+* Low-Latency Architecture
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamjithRaj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamjithRaj&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=SamjithRaj&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SamjithRaj&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SamjithRaj&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# Learning Journey
+
+```text
+C++                 █████████░
+DSA                 ███████░░░
+Backend Engineering ██████░░░░
+Data Analytics      ███████░░░
+Machine Learning    █████░░░░░
+System Design       ███░░░░░░░
+```
+
+---
+
+# 2026 Goals
+
+* Build multiple production-quality projects
+* Become highly proficient in Data Structures & Algorithms
+* Strengthen backend engineering skills
+* Learn system design fundamentals
+* Develop stronger software architecture intuition
+* Secure a strong Software Engineering role
+
+---
+
+# Recent Interests
+
+```yaml
+current_focus:
+  - Backend Engineering
+  - C++
+  - Software Architecture
+  - Data Analytics
+  - Machine Learning
+  - System Design
+
+currently_reading:
+  - Clean Code
+  - System Design Concepts
+  - Backend Engineering Resources
+
+currently_building:
+  - Personal Finance Analyzer
+```
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamjithRaj&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=SamjithRaj&style=for-the-badge&color=0e75b6"/>
+
+<br><br>
+
+<i>Building skills one project at a time.</i>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,100:2563EB"/>
